@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eregingec.github.io/sitemap.html.gz
+Sitemap: https://eregingec.github.io/app/sitemap.html.gz
+Sitemap: https://eregingec.github.io/assets/sitemap.html.gz
+Sitemap: https://eregingec.github.io/css/sitemap.html.gz
+Sitemap: https://eregingec.github.io/includes/sitemap.html.gz
+Sitemap: https://eregingec.github.io/item/sitemap.html.gz
+Sitemap: https://eregingec.github.io/src/sitemap.html.gz
